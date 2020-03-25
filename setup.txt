@@ -1,0 +1,12 @@
+Build from website or get from apt
+'sudo apt install doxygen'
+
+install package 'doxygen-gui' AKA doxywizard
+'sudo apt install doxygen-gui'
+
+install all packes required for make in order to make a pdf refman from latex output
+' sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra '
+
+Use doxyfile in this dir for c++ documentation.
+
+
